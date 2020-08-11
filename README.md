@@ -2,12 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@burakselyum)](https://medium.com/@burakselyum) [![GitHub Follow Badge](https://img.shields.io/github/followers/buraksenyurt?label=follow&style=social)](https://github.com/buraksenyurt)
 
+🔭 I’m currently working on **[@DogusTeknoloji.com](https://www.d-teknoloji.com.tr/)**
+
 <!--
 **buraksenyurt/buraksenyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
