@@ -1,6 +1,6 @@
 ### Merhaba. Ben Burak. Burak Selim. Burak Selim Şenyurt. Yarışmaya İstanbul'dan katılıyorum. 👋
-Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
-🌱 Bu vakitlerde ortaya karışık bir şeyler öğrenmeye gayret ediyorum. SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir.
+- Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
+- 🌱 Bu vakitlerde ortaya karışık bir şeyler öğrenmeye gayret ediyorum. SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@burakselyum)](https://medium.com/@burakselyum) [![GitHub Follow Badge](https://img.shields.io/github/followers/buraksenyurt?label=follow&style=social)](https://github.com/buraksenyurt)
 
