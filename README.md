@@ -5,6 +5,7 @@
 Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden paramı kazanıyorum.
 Ancak aşağıdaki dillere de ilgim var.
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
