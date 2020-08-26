@@ -14,7 +14,7 @@ Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=fla
 
 Evde genellikle Heimdall _(Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) hayranıyım!
 
-En sevdiğim spor basketbol ve şans numaram...
+⚡ En sevdiğim spor basketbol ve şans numaram, ⚡
 
 <img src="https://raw.githubusercontent.com/buraksenyurt/buraksenyurt/master/images/jordan.jpg">
 
