@@ -15,6 +15,10 @@ Ancak aşağıdaki dillere de ilgim var.
 
 Evde genellikle Heimdall _(Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) hayranıyım!
 
+En sevdiğim spor basketbol ve şans numaram...
+
+<img src="https://raw.githubusercontent.com/buraksenyurt/buraksenyurt/master/images/jordan.jpg">
+
 🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@burakselyum)](https://medium.com/@burakselyum) [![GitHub Follow Badge](https://img.shields.io/github/followers/buraksenyurt?label=follow&style=social)](https://github.com/buraksenyurt)
