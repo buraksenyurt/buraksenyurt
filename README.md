@@ -2,7 +2,7 @@
 - Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
 - 🌱 Bu vakitlerde ortaya karışık bir şeyler öğrenmeye gayret ediyorum. SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir.
 
-Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillere de ilgim var. Hobi amaçlı olarak takip ettiği ne kadar blog varsa, gözüme kestirdiğim örnekleri harmanlayıp, kendimce aldığım notlarla buralarda toplamaya çalışıyorum.
+Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillere de ilgim var. Hobi amaçlı olarak takip ettiğim ne kadar blog varsa, gözüme kestirdiğim örnekleri harmanlayıp, kendimce aldığım notlarla buralarda toplamaya çalışıyorum. 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
