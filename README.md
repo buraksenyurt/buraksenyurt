@@ -4,12 +4,12 @@
 
 Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillere de ilgim var. Hobi amaçlı olarak takip ettiğim ne kadar blog varsa, gözüme kestirdiğim örnekleri harmanlayıp, kendimce aldığım notlarla buralarda toplamaya çalışıyorum. 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
 Evde genellikle Heimdall _(Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) hayranıyım!
