@@ -12,7 +12,7 @@ Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=fla
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
-Evde genellikle Heimdall _(Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) hayranıyım!
+Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) ~~hayranıydım~~. Lakin uzun zamandır Rust dilini öğrenmeye çalışıyorum ve ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) geliştirme aracının onunla olan uyumu bence muhteşem.
 
 Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesapta, otomatik olarak üretilen ve genelde NodeJS tarafı kodlarının çekirdeğini oluşturan Javascript'i hariç tutarsam aşağıdaki dillerin yer aldığını istatistiksel olarak ifade edebilirim.
 
