@@ -1,8 +1,8 @@
 ### Merhaba. Ben Burak. Burak Selim. Burak Selim Şenyurt. Yarışmaya İstanbul'dan katılıyorum. 👋
 - Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
-- Bu vakitlerde ortaya karışık bir şeyler öğrenmeye gayret ediyorum. SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir.
+- Zaman zaman ortaya karışık bir şeyler öğrenmeye gayret ediyorum. SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir.
 
-Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillere de ilgim var. Hobi amaçlı olarak takip ettiğim ne kadar blog varsa, gözüme kestirdiğim örnekleri harmanlayıp, kendimce aldığım notlarla buralarda toplamaya çalışıyorum. 
+Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) dili üzerinde yaptığım işlerden para kazanıyorum ancak aşağıdaki dillerle de uğraşmışlığım var. Hobi amaçlı olarak takip ettiğim ne kadar blog varsa, gözüme kestirdiğim örnekleri harmanlayıp, kendimce aldığım notlarla buralarda toplamaya çalışıyorum. 
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
@@ -12,15 +12,13 @@ Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=fla
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
-Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) ~~hayranıydım~~. Lakin uzun zamandır Rust dilini öğrenmeye çalışıyorum ve ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) geliştirme aracının onunla olan uyumu bence muhteşem.
+Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) ~~hayranıydım~~. Lakin uzun zamandır Rust dilini öğrenmeye çalışıyorum ve ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) geliştirme aracının onunla olan uyumu bence muhteşem. Bu arada son zamanlarda denediğim github Codespaces çok başarılı. İçinde docker'ın da yüklü olduğu hazır ortam sayesinde birçok deneyi sadece bir tarayıcı kullanarak uzak diyarlarda gerçekleştirmek mümkün.
 
-Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesapta, otomatik olarak üretilen ve genelde NodeJS tarafı kodlarının çekirdeğini oluşturan Javascript'i hariç tutarsam aşağıdaki dillerin yer aldığını istatistiksel olarak ifade edebilirim.
+Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesapta, otomatik olarak üretilen ve genelde NodeJS tarafı kodlarının çekirdeğini oluşturan Javascript'i hariç tutarsam aşağıdaki dillerin yer aldığını istatistiksel olarak ifade edebilirim. Görüldüğü üzere C# ile Rust belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde.
 
 [![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
-:sparkling_heart: Bu arada en sevdiğim spor dalı basketbol ve şans numaram majestelerininki ile aynı,
-
-<img src="https://raw.githubusercontent.com/buraksenyurt/buraksenyurt/master/images/jordan.jpg">
+:sparkling_heart: Son yıllarda tür ayırt etmeksizin kitap okumaya daha çok zaman ayırıyorum. Bununla birlikte boş zaman yaratıp teknolojik cihazları da bir kenara bırakıp zihnimi sakinleştirmek için çengel bulmacalar ⚡ çözüyorum _(Gazete ekleri, kurşun kalem ve silgi)_ Sıkı bir basketbol takipçisiyim ve Avrupa ekolünü NBA'e tercih ediyorum.
 
 🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım.
 
