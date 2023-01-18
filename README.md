@@ -16,7 +16,7 @@ Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde gelişti
 
 Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesapta, otomatik olarak üretilen ve genelde NodeJS tarafı kodlarının çekirdeğini oluşturan Javascript'i hariç tutarsam aşağıdaki dillerin yer aldığını istatistiksel olarak ifade edebilirim.
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=10&hide=html,smarty,javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=10&hide=html,smarty,javascript)
+[![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
 :sparkling_heart: Bu arada en sevdiğim spor dalı basketbol ve şans numaram majestelerininki ile aynı,
 
