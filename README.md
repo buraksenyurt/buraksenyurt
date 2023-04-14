@@ -20,7 +20,7 @@ Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesa
 
 :sparkling_heart: Son yıllarda tür ayırt etmeksizin kitap okumaya daha çok zaman ayırıyorum. Bununla birlikte boş zaman yaratıp teknolojik cihazları da bir kenara bırakıp zihnimi sakinleştirmek için çengel bulmacalar ⚡ çözüyorum _(Gazete ekleri, kurşun kalem ve silgi)_ Sıkı bir basketbol takipçisiyim ve Avrupa ekolünü NBA'e tercih ediyorum.
 
-🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım.
+🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım. Ayrıca **[FutureVerse](https://github.com/futureverseofficial)** organizasyonunda gönüllü olarak görev almaktayım.
 
 Bana :tea: ya da :coffee: ısmarlamak isterseniz bunun yerine bir süredir görüşmediğiniz bir arkadaşınızı arayın ve onu :tea: veya :coffee: içmeye davet edin.
 
