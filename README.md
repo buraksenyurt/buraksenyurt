@@ -12,7 +12,7 @@ Profesyonel olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=fla
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
-Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde geliştirme yapıyorum ve ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff) ~~hayranıydım~~. Lakin uzun zamandır Rust dilini öğrenmeye çalışıyorum ve ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) geliştirme aracının onunla olan uyumu bence muhteşem. Bu arada son zamanlarda denediğim github Codespaces çok başarılı. İçinde docker'ın da yüklü olduğu hazır ortam sayesinde birçok deneyi sadece bir tarayıcı kullanarak uzak diyarlarda gerçekleştirmek mümkün.
+Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ üstünde geliştirme yapıyorum ve duruma göre farklı IDE'ler kullanıyorum. C# ile alaklı konularda ağırlıklı olarak **VS Code** kullanıyorum lakin uzun zamandır **Rust** dili üzerine de çalışıyorum ve **Rust-Rover** geliştirme aracının onunla olan uyumu çok başarılı. _(Bir süre öncesine kadar IntellijIDE kullanırdım)_ Bu arada bazen **github Codespaces** üzerinde de çalışıyorum. İçinde **docker**'ın da yüklü olduğu hazır ortam sayesinde birçok deneyi sadece bir tarayıcı kullanarak uzak diyarlarda gerçekleştirmek mümkün.
 
 Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesapta, otomatik olarak üretilen ve genelde NodeJS tarafı kodlarının çekirdeğini oluşturan Javascript'i hariç tutarsam aşağıdaki dillerin yer aldığını istatistiksel olarak ifade edebilirim. Görüldüğü üzere C# ile Rust belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde.
 
@@ -20,7 +20,9 @@ Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesa
 
 :sparkling_heart: Son yıllarda tür ayırt etmeksizin kitap okumaya daha çok zaman ayırıyorum. Bununla birlikte boş zaman yaratıp teknolojik cihazları da bir kenara bırakıp zihnimi sakinleştirmek için çengel bulmacalar ⚡ çözüyorum _(Gazete ekleri, kurşun kalem ve silgi)_ Sıkı bir basketbol takipçisiyim ve Avrupa ekolünü NBA'e tercih ediyorum.
 
-🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım. Ayrıca **[CoderVerse](https://github.com/thecoderverse)** organizasyonunda gönüllü olarak görev almaktayım.
+🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım. Ayrıca **[CoderVerse](https://github.com/thecoderverse)** organizasyonunda gönüllü olarak görev almaktayım. 
+
+⭐ 2023 yılı itibariyle Sektör Kampüste projesi kapsamında kabul gören üniversitelerde lisans öğrencilerin programlama dersi verme fırsatı da buluyorum ki bu en büyük hayalimdi.
 
 Bana :tea: ya da :coffee: ısmarlamak isterseniz bunun yerine bir süredir görüşmediğiniz bir arkadaşınızı arayın ve onu :tea: veya :coffee: içmeye davet edin.
 
