@@ -22,11 +22,11 @@ Yeni bir şeyler öğrenmek ve kendimi yetiştirmek için kullandığım bu hesa
 
 🔭 Halen **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)**'de yazılım geliştirici olarak çalışmaktayım. Ayrıca **[CoderVerse](https://github.com/thecoderverse)** organizasyonunda gönüllü olarak görev almaktayım. 
 
-⭐ 2023 yılı itibariyle Sektör Kampüste projesi kapsamında kabul gören üniversitelerde lisans öğrencilerin programlama dersi verme fırsatı da buluyorum ki bu en büyük hayalimdi.
+⭐ 2023 yılı itibariyle Sektör Kampüste projesi kapsamında kabul gören üniversitelerde lisans öğrencilerine programlama dersi verme fırsatı da buluyorum ki bu en büyük hayalimdi. İlk dersimi ESOGÜ Endüstri Mühendisliği bölümü öğrencilerine verdim ve C# ile Programlama konusunu anlattım. Sonrasında İTÜ Matematik Mühendisliği ve Şırnak Üniversitesi Bilgisayar Mühendisliği bölümlerinde C# ile Nesne Yönelimli Programlamanın Temelleri dersini verme şansı buldum _(2024 - 2025 ilk dönem programlarıdır dolayısıyla halen vermekteyim)_ Sonraki amacım Rust ile Sistem Programlama dersini açabilmek. Kısmet diyelim.
 
 Bana :tea: ya da :coffee: ısmarlamak isterseniz bunun yerine bir süredir görüşmediğiniz bir arkadaşınızı arayın ve onu :tea: veya :coffee: içmeye davet edin.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/)](https://www.linkedin.com/in/burak-selim-şenyurt-b15537ab/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@burakselyum)](https://medium.com/@burakselyum) [![GitHub Follow Badge](https://img.shields.io/github/followers/buraksenyurt?label=follow&style=social)](https://github.com/buraksenyurt)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/buraksenyurt?label=follow&style=social)](https://github.com/buraksenyurt)
 
 <!--
 **buraksenyurt/buraksenyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
