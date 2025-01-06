@@ -10,8 +10,8 @@
 
 ⭐ 2023 yılı itibariyle **Sektör Kampüste** projesi kapsamında kabul gören üniversitelerde lisans öğrencilerine Doğuş Teknoloji adına programlama dersi verme fırsatı buldum ki bu en büyük hayalimdi ❤️ Bundan sonraki hedefimse, **Rust ile Sistem Programlama** dersi açabilmek. Kısmet diyelim 🙏 
  - [x] ESOGÜ Endüstri Mühendisliği, 2023-2024 Güz Dönemi, [C# ile Programlama](https://github.com/buraksenyurt/akademi)
- - [ ] Şırnak Üniversitesi Bilgisayar Mühendisliği, 2024-2025 Güz Dönemi, C# ile Nesne Yönelimli Programlamanın Temelleri _(İTÜ Müfredatı ile aynı)_
- - [ ] İTÜ Matematik Mühendisliği, 2024-2025 Güz Dönemi, [C# ile Nesne Yönelimli Programlamanın Temelleri](https://github.com/buraksenyurt/ProgrammingWithCSharp)
+ - [x] Şırnak Üniversitesi Bilgisayar Mühendisliği, 2024-2025 Güz Dönemi, C# ile Nesne Yönelimli Programlamanın Temelleri _(İTÜ Müfredatı ile aynı)_
+ - [x] İTÜ Matematik Mühendisliği, 2024-2025 Güz Dönemi, [C# ile Nesne Yönelimli Programlamanın Temelleri](https://github.com/buraksenyurt/ProgrammingWithCSharp)
 
 ⚡ Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım.
 
