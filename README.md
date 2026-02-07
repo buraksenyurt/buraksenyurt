@@ -15,19 +15,17 @@
  - [x] Şırnak Üniversitesi Bilgisayar Mühendisliği, 2024-2025 Güz Dönemi, C# ile Nesne Yönelimli Programlamanın Temelleri _(İTÜ Müfredatı ile aynı)_
  - [x] ESOGÜ Endüstri Mühendisliği, 2023-2024 Güz Dönemi, [C# ile Programlama](https://github.com/buraksenyurt/akademi)
 
-⚡ Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım.
+⚡ Öğrenme tutkusunu kaybetmeyen *(kaybetmeyi reddeden)* bir programlama sevdalısıyım.
 
 🔭 Yeni bir şeyler öğrenmeye çalışırken düzenli olarak notlar almaya gayret ettiğim bir yer burası _(SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir)_
 
 💻 Profesyonel iş hayatında C# dili ile geliştirme yapsam da geçmiş periyotlarda hobi amaçlı uğraştığım başka diller de oldu _(Java, Ruby, Pyhton, Go bunlar arasında sayılabilir)_
  
-💻 Son yıllardaki favori programlama dilim ise kesinlikle, yüzde yüz, ebsulutli ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
+⭐ Son yıllardaki favori programlama dilim ise kesinlikle, yüzde yüz, ebsulutli ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white) 
 
-🌻 Hayatımın farklı dönemlerinde farklı topluluklarda görev alma şansı buldum. Pek çok etkinlikte konuşmacı olarak yer aldım. Bugünlerde ise **[CoderVerse](https://github.com/thecoderverse)** organizasyonunda gönüllü olarak görev alıyorum.
+🔭 ...ancak ![Zig](https://img.shields.io/badge/zig-%23000000.svg?&style=flat&logo=zig) ve ![OCaml](https://img.shields.io/badge/ocaml-%23000000.svg?&style=flat&logo=ocaml) üzerine de çalışıyorum. En azından onları öğrenme gayretindeyim.
 
-ℹ️ _Evde genellikle Heimdall _(Artık adı moon olan bir Ubuntu)_ veya Windows 11 tabanlı **BinaryTown** üstünde geliştirme yapıyorum ve duruma göre farklı IDE'ler kullanıyorum. C# ile alaklı konularda ağırlıklı olarak **VS Code** kullanıyorum. lakin uzun zamandır **Rust** diliyle ilgileniyorum ve **Rust-Rover** geliştirme aracının onunla olan uyumunun çok başarılı olduğunu düşünüyorum. Bazen **github Codespaces** üzerinde de çalışıyorum. İçinde **docker**'ın da yüklü olduğu hazır ortam sayesinde birçok deneyi sadece bir tarayıcı kullanarak uzak diyarlarda gerçekleştirmek mümkün._
-
-Bu repodaki güncel rekabet durumu ise şöyle. Gördüldüğü üzere C# ile Rust belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde.
+Bu repodaki güncel rekabet durumu ise şöyle. Gördüldüğü üzere C# ile Rust belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde, ancak Zig hemen enselerinde ve OCaml'da ilerleyen zamanlarda bir sürpriz yapabilir.
 
 [![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
