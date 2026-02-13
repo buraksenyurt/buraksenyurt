@@ -12,12 +12,12 @@
 
 |Ders|Okul|Bölüm(ler)|Dönem|Repo|
 |-|-|-|-|-|
-|[ ] Yapay Zeka Destekli Yazılım Geliştirme|Pamukkale Üniversitesi|Elektrik Elektronik Müh / Yönetim Bilişim Sistemleri|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
-|[ ] Yapay Zeka Destekli Yazılım Geliştirme|Konya Gıda ve Tarım Üniversitesi|Yazılım Mühendisliği|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
-|[x] Rust ile Sistem Programlama|Uludağ Üniversitesi|Bilgisayar Mühendisliği/BÖTE|2024-2025 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithRust)|
-|[x] C# ile Nesne Yönelimli Programlamanın Temelleri|İTÜ|Matematik Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
-|[x] C# ile Nesne Yönelimli Programlamanın Temelleri|Şırnak Üniversitesi|Bilgisayar Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
-|[x] C# ile Programlama|ESOGÜ|Endüstri Mühendisliği|2023-2024 Güz Dönemi|[Repo](https://github.com/buraksenyurt/akademi)|
+|⬜ Yapay Zeka Destekli Yazılım Geliştirme|Pamukkale Üniversitesi|Elektrik Elektronik Müh / Yönetim Bilişim Sistemleri|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
+|⬜ Yapay Zeka Destekli Yazılım Geliştirme|Konya Gıda ve Tarım Üniversitesi|Yazılım Mühendisliği|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
+|✅ Rust ile Sistem Programlama|Uludağ Üniversitesi|Bilgisayar Mühendisliği/BÖTE|2024-2025 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithRust)|
+|✅ C# ile Nesne Yönelimli Programlamanın Temelleri|İTÜ|Matematik Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
+|✅ C# ile Nesne Yönelimli Programlamanın Temelleri|Şırnak Üniversitesi|Bilgisayar Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
+|✅ C# ile Programlama|ESOGÜ|Endüstri Mühendisliği|2023-2024 Güz Dönemi|[Repo](https://github.com/buraksenyurt/akademi)|
 
 ⚡ Öğrenme tutkusunu kaybetmeyen _(kaybetmeyi reddeden)_ bir programlama sevdalısıyım.
 
