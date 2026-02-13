@@ -4,28 +4,32 @@
 
 ⭐ Gururla söylemek isterim ki **Y.T.Ü. Matematik Mühendisliği** _(1993-1999)_ mezunuyum.
 
-⚡ Mesleki kariyerime 1999 yılında Bilgi İşlem Sorumlusu ünvanı ile başladım. Delphi dilini kullanarak asistan hizmetler veren bir ürünün geliştirilmesinde görev aldım ama arada bir network kablolama, printer kartuş değişimi, işletim sistemi kurulumu, bilgisayara format atılması gibi işler de yaptım. Sonrasında Bizitek, Netron, Innova, TCM ve IngBank gibi firmalarda farklı pozisyonlarda yazılım geliştirdim.
+⚡ Mesleki kariyerime 1999 yılında **Bilgi İşlem Sorumlusu** ünvanı ile başladım. **Delphi** dilini kullanarak asistan hizmetler veren bir ürünün geliştirilmesinde görev aldım ama arada bir network kablolama, printer kartuş değişimi, işletim sistemi kurulumu, bilgisayara format atılması gibi işler de yaptım. Sonrasında _Bizitek_, _Netron_, _Innova_, _TCM_ ve _IngBank_ gibi firmalarda farklı pozisyonlarda yazılım geliştirdim.
 
 🔭 2018 Ocak ayından bu yana ise **[@DogusTeknoloji](https://www.d-teknoloji.com.tr/)** bünyesinde .Net tabanlı büyük bir ERP çözümünde yazılım geliştirici olarak çalışmaktayım.
 
-⭐ 2023 yılı itibariyle **[Sektör Kampüste](https://drdogrulama.sanayi.gov.tr/tr/profile/burakselimsenyurt72116/)** projesi kapsamında kabul gören üniversitelerde lisans öğrencilerine Doğuş Teknoloji adına programlama dersi verme fırsatı buldum ki bu en büyük hayalimdi ❤️ 
+⭐ 2023 yılı itibariyle **[Sektör Kampüste](https://drdogrulama.sanayi.gov.tr/tr/profile/burakselimsenyurt72116/)** projesi kapsamında kabul gören üniversitelerde lisans öğrencilerine **Doğuş Teknoloji** adına mesleki dersler verme fırsatı buldum ki bu en büyük hayalimdi ❤️
 
- - [x] Uludağ Üniversitesi Bilgisayar Mühendisliği/BÖTE, 2024-2025 Bahar Dönemi, [Rust ile Sistem Programlama](https://github.com/buraksenyurt/ProgrammingWithRust)
- - [x] İTÜ Matematik Mühendisliği, 2024-2025 Güz Dönemi, [C# ile Nesne Yönelimli Programlamanın Temelleri](https://github.com/buraksenyurt/ProgrammingWithCSharp)
- - [x] Şırnak Üniversitesi Bilgisayar Mühendisliği, 2024-2025 Güz Dönemi, C# ile Nesne Yönelimli Programlamanın Temelleri _(İTÜ Müfredatı ile aynı)_
- - [x] ESOGÜ Endüstri Mühendisliği, 2023-2024 Güz Dönemi, [C# ile Programlama](https://github.com/buraksenyurt/akademi)
+|Ders|Okul|Bölüm(ler)|Dönem|Repo|
+|-|-|-|-|-|
+|[ ] Yapay Zeka Destekli Yazılım Geliştirme|Pamukkale Üniversitesi|Elektrik Elektronik Müh / Yönetim Bilişim Sistemleri|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
+|[ ] Yapay Zeka Destekli Yazılım Geliştirme|Konya Gıda ve Tarım Üniversitesi|Yazılım Mühendisliği|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
+|[x] Rust ile Sistem Programlama|Uludağ Üniversitesi|Bilgisayar Mühendisliği/BÖTE|2024-2025 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithRust)|
+|[x] C# ile Nesne Yönelimli Programlamanın Temelleri|İTÜ|Matematik Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
+|[x] C# ile Nesne Yönelimli Programlamanın Temelleri|Şırnak Üniversitesi|Bilgisayar Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
+|[x] C# ile Programlama|ESOGÜ|Endüstri Mühendisliği|2023-2024 Güz Dönemi|[Repo](https://github.com/buraksenyurt/akademi)|
 
-⚡ Öğrenme tutkusunu kaybetmeyen *(kaybetmeyi reddeden)* bir programlama sevdalısıyım.
+⚡ Öğrenme tutkusunu kaybetmeyen _(kaybetmeyi reddeden)_ bir programlama sevdalısıyım.
 
 🔭 Yeni bir şeyler öğrenmeye çalışırken düzenli olarak notlar almaya gayret ettiğim bir yer burası _(SkyNet ve Saturday Night Works isimli repolar bu anlamda size fikir verebilir)_
 
-💻 Profesyonel iş hayatında C# dili ile geliştirme yapsam da geçmiş periyotlarda hobi amaçlı uğraştığım başka diller de oldu _(Java, Ruby, Pyhton, Go bunlar arasında sayılabilir)_
- 
-⭐ Son yıllardaki favori programlama dilim ise kesinlikle, yüzde yüz, ebsulutli ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white) 
+💻 Profesyonel iş hayatında **C#** dili ile geliştirme yapsam da geçmiş periyotlarda hobi amaçlı uğraştığım başka diller de oldu _(Java, Ruby, Python, Go bunlar arasında sayılabilir)_
+
+⭐ Son yıllardaki favori programlama dilim ise kesinlikle, yüzde yüz, ebsulutli ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
 
 🔭 ...ancak ![Zig](https://img.shields.io/badge/zig-%23000000.svg?&style=flat&logo=zig) ve ![OCaml](https://img.shields.io/badge/ocaml-%23000000.svg?&style=flat&logo=ocaml) üzerine de çalışıyorum. En azından onları öğrenme gayretindeyim.
 
-Bu repodaki güncel rekabet durumu ise şöyle. Gördüldüğü üzere C# ile Rust belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde, ancak Zig hemen enselerinde ve OCaml'da ilerleyen zamanlarda bir sürpriz yapabilir.
+Bu repodaki güncel rekabet durumu ise şöyle. Gördüldüğü üzere **C#** ile **Rust** belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde, ancak **Zig** hemen enselerinde ve **OCaml**'da ilerleyen zamanlarda bir sürpriz yapıp atağa kalkabilir.
 
 [![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
