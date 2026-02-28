@@ -10,14 +10,16 @@
 
 ⭐ 2023 yılı itibariyle **[Sektör Kampüste](https://drdogrulama.sanayi.gov.tr/tr/profile/burakselimsenyurt72116/)** projesi kapsamında kabul gören üniversitelerde lisans öğrencilerine **Doğuş Teknoloji** adına mesleki dersler verme fırsatı buldum ki bu en büyük hayalimdi ❤️
 
-|Ders|Okul|Bölüm(ler)|Dönem|Repo|
-|-|-|-|-|-|
-|⬜ Yapay Zeka Destekli Yazılım Geliştirme|Pamukkale Üniversitesi|Elektrik Elektronik Müh / Yönetim Bilişim Sistemleri|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
-|⬜ Yapay Zeka Destekli Yazılım Geliştirme|Konya Gıda ve Tarım Üniversitesi|Yazılım Mühendisliği|2025-2026 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ai-based-development-lecture)|
-|✅ Rust ile Sistem Programlama|Uludağ Üniversitesi|Bilgisayar Mühendisliği/BÖTE|2024-2025 Bahar Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithRust)|
-|✅ C# ile Nesne Yönelimli Programlamanın Temelleri|İTÜ|Matematik Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
-|✅ C# ile Nesne Yönelimli Programlamanın Temelleri|Şırnak Üniversitesi|Bilgisayar Mühendisliği|2024-2025 Güz Dönemi|[Repo](https://github.com/buraksenyurt/ProgrammingWithCSharp)|
-|✅ C# ile Programlama|ESOGÜ|Endüstri Mühendisliği|2023-2024 Güz Dönemi|[Repo](https://github.com/buraksenyurt/akademi)|
+|Ders|Okul|Bölüm(ler)|Dönem|
+|-|-|-|-|
+|⬜ [Kurumsal Yazılım Çözümlerinde Nesne Yönelimli Dillerle Çalışmak](https://github.com/buraksenyurt/oop-in-enterprise)|Ankara Üniversitesi|BÖTE|2025-2026 Bahar Dönemi|
+|⬜ [Kurumsal Yazılım Çözümlerinde Nesne Yönelimli Dillerle Çalışmak](https://github.com/buraksenyurt/oop-in-enterprise)|Balıkesir Üniversitesi|Matematik|2025-2026 Bahar Dönemi|
+|⬜ [Yapay Zeka Destekli Yazılım Geliştirme](https://github.com/buraksenyurt/ai-based-development-lecture)|Pamukkale Üniversitesi|Elektrik Elektronik Müh / Yönetim Bilişim Sistemleri|2025-2026 Bahar Dönemi|
+|⬜ [Yapay Zeka Destekli Yazılım Geliştirme](https://github.com/buraksenyurt/ai-based-development-lecture)|Konya Gıda ve Tarım Üniversitesi|Yazılım Mühendisliği|2025-2026 Bahar Dönemi|
+|✅ [Rust ile Sistem Programlama](https://github.com/buraksenyurt/ProgrammingWithRust)|Uludağ Üniversitesi|Bilgisayar Mühendisliği/BÖTE|2024-2025 Bahar Dönemi|
+|✅ [C# ile Nesne Yönelimli Programlamanın Temelleri](https://github.com/buraksenyurt/ProgrammingWithCSharp)|İTÜ|Matematik Mühendisliği|2024-2025 Güz Dönemi|
+|✅ [C# ile Nesne Yönelimli Programlamanın Temelleri](https://github.com/buraksenyurt/ProgrammingWithCSharp)|Şırnak Üniversitesi|Bilgisayar Mühendisliği|2024-2025 Güz Dönemi|
+|✅ [C# ile Programlama](https://github.com/buraksenyurt/akademi)|ESOGÜ|Endüstri Mühendisliği|2023-2024 Güz Dönemi|
 
 ⚡ Öğrenme tutkusunu kaybetmeyen _(kaybetmeyi reddeden)_ bir programlama sevdalısıyım.
 
