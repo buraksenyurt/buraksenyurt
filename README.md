@@ -34,9 +34,7 @@
 
 Bu repodaki güncel rekabet durumu ise şöyle. Gördüldüğü üzere **C#** ile **Rust** belgeyi güncellediğim tarih itibariyle ciddi rekabet içerisinde, ancak **Zig** hemen enselerinde ve **OCaml**'da ilerleyen zamanlarda bir sürpriz yapıp atağa kalkabilir.
 
-[![Kullanılan Diller](https://github-readme-stats-neon-xi-63.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-neon-xi-63.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
-
-https://github-readme-stats-neon-xi-63.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript
+![Kullanılan Diller](https://github-readme-stats-neon-xi-63.vercel.app/api/top-langs/?username=buraksenyurt&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
 :sparkling_heart: Son yıllarda tür ayırt etmeksizin kitap okumaya daha çok zaman ayırıyorum. Bununla birlikte boş zaman yaratıp teknolojik cihazları da bir kenara bırakıp zihnimi sakinleştirmek için çengel bulmacalar çözüyorum _(Gazete ekleri, kurşun kalem ve silgi)_ Sıkı bir basketbol takipçisiyim ve Avrupa ekolünü NBA'e tercih ederim.
 
